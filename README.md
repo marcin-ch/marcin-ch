@@ -2,6 +2,9 @@
 [<img alt="email.PNG" width="40px" src="https://github.com/marcin-ch/marcin-ch/raw/main/images/email.PNG" />](mailto:marcin.chelminski@futureelectronics.com)
 
 <!---
+if direct link to image does not work, use https://raw.githubusercontent.com/marcin-ch/marcin-ch/main/images/email.PNG
+
+Further details:
 Emoji icon does not render properly when you have GitHub Pages activated, in this case https://marcin-ch.github.io/marcin-ch/
 Therefore I used HTML tag <img>
 Also relative link to /images/email.PNG does not work so direct link has been used
