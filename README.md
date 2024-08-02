@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Contact me:
-[<img alt="email.PNG" width="40px" src="https://github.com/marcin-ch/marcin-ch/raw/main/images/email.PNG" />](mailto:marcin.chelminski@futureelectronics.com)
+[<img alt="email.PNG" width="40px" src="https://github.com/marcin-ch/marcin-ch/raw/main/images/email.PNG" />](mailto:marcin.chelminski@gmail.com)
 
 [<img alt="books.PNG" width="40px" src="https://github.com/marcin-ch/marcin-ch/raw/main/images/books.PNG" />](https://github.com/marcin-ch?tab=repositories)
 
